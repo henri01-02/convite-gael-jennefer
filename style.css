@@ -49,7 +49,7 @@ body {
 .duo {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  min-height: 170px;
+  min-height: 190px;
   border: 1px solid rgba(245,199,68,.65);
   border-radius: 8px;
   overflow: hidden;
@@ -147,11 +147,12 @@ footer p { margin: 0 0 9px; }
 @media (max-width: 420px) {
   body { padding: 12px 8px; }
   .invite { padding: 22px 14px 20px; }
-  .duo { min-height: 145px; }
+  .duo { min-height: 165px; }
   .side { padding-top: 75px; }
   .event-details { grid-template-columns: 1fr 1fr; }
   .date-block { grid-row: span 2; }
   .detail:last-child { grid-column: 2; }
   .detail strong { font-size: 11px; }
   .message { font-size: 15px; }
-}
+  }
+                     
