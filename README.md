@@ -4,7 +4,7 @@ Site responsivo para o aniversário conjunto de Gael e Jennefer.
 
 ## Dados já configurados
 - Data: 31 de janeiro de 2027
-- Horário: 15h
+- Horário: 16h
 - Local informado: Espaço Vale do Sol
 - WhatsApp de confirmação: +55 82 98734-0994
 
